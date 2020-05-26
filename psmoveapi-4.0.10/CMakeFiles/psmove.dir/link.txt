@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wno-long-long -Wall -Wno-long-long -Wall -Wno-long-long -Wall -Wno-long-long -Wall -Wno-long-long  -rdynamic CMakeFiles/psmove.dir/src/utils/psmovecli.cpp.o  -o psmove  -Wl,-rpath,/home/cglesgards/Téléchargements/psmoveapi-4.0.10: libpsmoveapi.so -lusb -lpthread -lm -ldbus-1 -ludev -lbluetooth 

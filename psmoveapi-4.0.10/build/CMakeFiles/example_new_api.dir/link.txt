@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wno-long-long -Wall -Wno-long-long -Wall -Wno-long-long -Wall -Wno-long-long -Wall -Wno-long-long  -rdynamic CMakeFiles/example_new_api.dir/examples/c/example_new_api.cpp.o  -o example_new_api  -Wl,-rpath,/home/cglesgards/Téléchargements/psmoveapi-4.0.10/build libpsmoveapi.so -lpthread -lm -ldbus-1 -ludev -lbluetooth 

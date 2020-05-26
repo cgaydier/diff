@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/example.dir/examples/c/example.c.o  -o example  -Wl,-rpath,/home/cglesgards/Téléchargements/psmoveapi-4.0.10/build libpsmoveapi.so -lpthread -lm -ldbus-1 -ludev -lbluetooth 

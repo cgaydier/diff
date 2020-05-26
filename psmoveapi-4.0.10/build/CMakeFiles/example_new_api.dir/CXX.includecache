@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/psmove.h
+psmove_config.h
+../include/psmove_config.h
+stdint.h
+-
+
+../include/psmoveapi.h
+psmove.h
+../include/psmove.h
+
+/home/cglesgards/Téléchargements/psmoveapi-4.0.10/examples/c/example_new_api.cpp
+stdio.h
+-
+stdlib.h
+-
+psmoveapi.h
+/home/cglesgards/Téléchargements/psmoveapi-4.0.10/examples/c/psmoveapi.h
+
+psmove_config.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/multiple.dir/examples/c/multiple.c.o  -o multiple  -Wl,-rpath,/home/cglesgards/Téléchargements/psmoveapi-4.0.10/build libpsmoveapi.so -lpthread -lm -ldbus-1 -ludev -lbluetooth 
