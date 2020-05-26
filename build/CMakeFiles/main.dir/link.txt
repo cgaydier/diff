@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/main.dir/home/cglesgards/diff/main.c.o  -o main  -Wl,-rpath,/home/cglesgards/diff/build libpsmoveapi.so -lm -lpthread -lm -ldbus-1 -ludev -lbluetooth 
